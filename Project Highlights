@@ -1,0 +1,27 @@
+🔍 Project Highlights:
+
+📊 Advanced Analytics Engine:
+Developed dynamic calculations for MoM/YoY growth rates (+12% MoM growth in Q4 ,12% YoY increase identified)
+Implemented time-of-day analysis revealing 34% of sales occur during evening hours
+Created profit margin tracking with automated alerts for underperforming products
+Real-time KPI updates: Tracked $3.98M in sales with 19.45% return rate
+Revealed Product #202 as top performer (18.6% of total sales)
+
+📈 Dashboard Features:
+✔️Dynamic filters for region, time of day, and year
+✔️ Real-time KPI tracking (sales, profit, order size)
+✔️ Top performer identification (products/regions/customers)
+✔️ Time-based trend analysis (daily/weekly/seasonal patterns)
+✔️ ROI-focused visualizations (sales vs. returns, margin trends)
+
+💡 Key Insights Generated:
+1-Evening hours (5-9 PM) deliver 2.3x higher conversion rates
+2-Top 2 products contribute 42% of total revenue
+3-Northwest region shows 18% higher average order value
+
+🎯 Actionable Recommendations:
+1-Reallocate ad spend to evening time slots for maximum impact
+2-Bundle top-performing products to increase average order size
+
+🛠️ Tech Stack: Python (Pandas, Plotly), Dash, Data Storytelling
+This project demonstrates how data visualization + business acumen can uncover hidden opportunities in sales operations. The dashboard now serves as the client's go-to tool for weekly performance reviews.
